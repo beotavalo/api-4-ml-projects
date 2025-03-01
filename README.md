@@ -2,6 +2,10 @@
 ## REST (Representational State Transfer)
 
 REST, short for Representational State Transfer, is an architectural style for building networked applications. It is based on a set of principles that emphasize a stateless, client-server communication model. REST APIs are widely used and follow the principles of using HTTP methods (GET, POST, PUT, DELETE) to perform CRUD (Create, Read, Update, Delete) operations on resources.
+
+**Example with FastAPI**
+![API Request](https://github.com/beotavalo/api-4-ml-projects/blob/main/images/api_request.jpg)
+![API Response](https://github.com/beotavalo/api-4-ml-projects/blob/main/images/api_response.jpg)
 ## GraphQL
 
 GraphQL is a query language and runtime that provides a more flexible approach to GrqaphQL API design compared to REST. It was developed by Facebook and offers a declarative syntax for specifying data requirements. With GraphQL, clients can request exactly the data they need, eliminating the problem of over-fetching or under-fetching data common in REST APIs.
