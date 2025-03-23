@@ -22,3 +22,4 @@ gRPC is a high-performance, open-source framework developed by Google. It enable
 - [Querying with GraphQL vs REST APIs in Python](https://medium.com/@josephgeorgelewis2000/querying-with-graphql-vs-rest-apis-in-python-f3e911928e36)
 - [Simple Usage of gRPC with Python](https://medium.com/@coderviewer/simple-usage-of-grpc-with-python-f714d9f69daa)
 - [Creating Beautiful REST APIs using Python Flask and Swagger UI](https://youtu.be/k10ILjUyWuQ)
+- [Easily serve AI models Lightning fast](https://lightning.ai/docs/litserve/home)
